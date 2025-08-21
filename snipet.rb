@@ -5,3 +5,7 @@ end
 def getsAndReturnInt
   gets.chomp.to_i
 end
+
+def getsAndReturnStr
+  gets.chomp
+end
